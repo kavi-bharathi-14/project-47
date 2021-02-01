@@ -35,7 +35,7 @@ class Form {
             this.continue.position(displayWidth / 2 , displayHeight / 2)
            
             this.continue.mousePressed(() => {
-              this.greeting.html("this a game you will like to play and more");
+              this.greeting.html("it is just a test how is it mam is it ok i f we do like this ");
               
             })
            
